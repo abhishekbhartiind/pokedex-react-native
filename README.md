@@ -1,4 +1,2 @@
-# Phable Pokedex
+# Pokedex React Native Application
 __________________________________________
-
-Configuration
